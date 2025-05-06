@@ -139,6 +139,7 @@ To use this server with Claude Desktop, follow these steps:
   }
 }
 ```
+NOTE: Use `localhost`, `127.0.0.1` won't work. 
 
 4. Replace the database connection string with your actual PostgreSQL connection details
 5. Restart Claude Desktop completely
